@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My Food Porn</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-01-19T02:54:06.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Logan Griffis</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello everyone!</title>
+    <link href="http://yoursite.com/2017/01/18/hello-world/"/>
+    <id>http://yoursite.com/2017/01/18/hello-world/</id>
+    <published>2017-01-19T02:09:16.000Z</published>
+    <updated>2017-01-19T02:54:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="My-Food-Porn"><a href="#My-Food-Porn" class="headerlink" title="My Food Porn"></a>My Food Porn</h2><p>Hello everyone, thanks for checking out my blog, <em>My Food Porn</em> ! Like home cooked, comforting food<br>from all over the world? If so I think you will love my food! I like to cook all kinds of food including<br>Asian cooking (especially Japanese), Italian (im part italian) and southern food (im from Georgia), so no<br>matter what kind of food you like you will probably see something here you like along with simple, easy to follow<br>instructions on how you can make these meals yourself!</p>
+<p>I plan on posting pretty regularly, atleast twice a week if possible. I cant wait to sahre my food with you and<br>I hope you enjoy reading about it as much as I like cooking it!</p>
+<p>Also, if you would like to see some pictures (this is My Food Porn right (:) feel free to check out my gallery<br><a href="https://plus.google.com/collection/gLv5lB" target="_blank" rel="external">here</a>.</p>
+<p>Thanks again!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;My-Food-Porn&quot;&gt;&lt;a href=&quot;#My-Food-Porn&quot; class=&quot;headerlink&quot; title=&quot;My Food Porn&quot;&gt;&lt;/a&gt;My Food Porn&lt;/h2&gt;&lt;p&gt;Hello everyone, thanks for che
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
