@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>My Food Porn</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/MyFoodPorn/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://jgw96.github.io/MyFoodPorn/"/>
   <updated>2017-01-19T02:54:06.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://jgw96.github.io/MyFoodPorn/</id>
   
   <author>
     <name>Logan Griffis</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello everyone!</title>
-    <link href="http://yoursite.com/2017/01/18/hello-world/"/>
-    <id>http://yoursite.com/2017/01/18/hello-world/</id>
+    <link href="https://jgw96.github.io/MyFoodPorn/2017/01/18/hello-world/"/>
+    <id>https://jgw96.github.io/MyFoodPorn/2017/01/18/hello-world/</id>
     <published>2017-01-19T02:09:16.000Z</published>
     <updated>2017-01-19T02:54:06.000Z</updated>
     
